@@ -44,15 +44,15 @@
 ---
 
 
-## ⚡ Installation & Setup
-Run the project locally:
+## ⚡ عملية التثبيت
+تشغيل المشروع محليا  :
 
 ```bash
 # Clone the repository
-git clone https://github.com/Naadix/Netflix-Clone.git
+git clonehttps://github.com/Naadix/Salatuk-App.git
 
 # Navigate into the project folder
-cd Netflix-Clone
+cd Salatuk-App
 
 # Install dependencies
 npm install
