@@ -34,8 +34,8 @@
 
 
 ## 🛠️ التقنيات المستعملة
-- **Frontend :** [React.js](https://react.dev/) + [Tailwind CSS](https://tailwindcss.com/) 
-- ** Data API:** [Aladhan](https://aladhan.com/) , [Adhkar](https://raw.githubusercontent.com/nawafalqari/azkar-api/56df51279ab6eb86dc2f6202c7de26c8948331c1/azkar.json)
+- **Frontend :** [React.js](https://react.dev/) + [Tailwind CSS](https://tailwindcss.com/) + [Shadcn/ui](https://ui.shadcn.com/docs/components)
+- **Data API :** [Aladhan](https://aladhan.com/) , [Adhkar](https://raw.githubusercontent.com/nawafalqari/azkar-api/56df51279ab6eb86dc2f6202c7de26c8948331c1/azkar.json)
 - **Hosting & Deployment:** [Netlify](https://www.netlify.com/) 
 - **Version Control:** [Git](https://git-scm.com/) + [GitHub](https://github.com/)
 - **Build Tool:** [Vite](https://vitejs.dev/)
