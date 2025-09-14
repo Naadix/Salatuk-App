@@ -199,10 +199,10 @@ const Prayers = () => {
       <div className='flex flex-wrap justify-center items-center gap-6 my-5'>
         <div className='flex flex-col gap-3 w-[280px] h-[280px] p-3 shadow-lg rounded-lg bg-white cursor-pointer'>
           <div className='w-full  h-[160px] rounded-md'>
-            <img src={image1} alt="الصبح" className='w-full h-full  object-cover rounded-md' />
+            <img src={image1} alt="الفجر" className='w-full h-full  object-cover rounded-md' />
           </div>
           <div className='flex flex-col justify-center gap-3'>
-            <h3 className='text-base md:text-xl font-bold bg-gradient-to-r from-blue-700 to-emerald-400 bg-clip-text text-transparent'>الصبح</h3>
+            <h3 className='text-base md:text-xl font-bold bg-gradient-to-r from-blue-700 to-emerald-400 bg-clip-text text-transparent'>الفجر</h3>
             <span className='text-black/60 font-bold text-xl'>{prayerTime?.Fajr}</span>
           </div>
         </div>
